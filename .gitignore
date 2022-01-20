@@ -1,0 +1,5 @@
+.DS_Store
+output
+.env
+src/templates/*
+src/templates/library.blend
